@@ -71,3 +71,4 @@ Continue connecting academic learning with practical industry applications.
 Professional Links
 
 [LinkedIn](https://www.linkedin.com/in/alok-patel-aa76a559/)
+[Resume]_(https://github.com/allokey-web/allokey-web/blob/main/Resume_AlokKPatel2026.pdf)_
